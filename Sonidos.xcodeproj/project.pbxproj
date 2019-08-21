@@ -14,6 +14,7 @@
 		3DEFB061230DEA1500791960 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DEFB05F230DEA1500791960 /* LaunchScreen.storyboard */; };
 		3DEFB06C230DEA1500791960 /* SonidosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEFB06B230DEA1500791960 /* SonidosTests.swift */; };
 		3DEFB077230DEA1600791960 /* SonidosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEFB076230DEA1600791960 /* SonidosUITests.swift */; };
+		3DEFB085230DEC5C00791960 /* AUDIO 29.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3DEFB084230DEC5C00791960 /* AUDIO 29.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3DEFB072230DEA1600791960 /* SonidosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SonidosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DEFB076230DEA1600791960 /* SonidosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SonidosUITests.swift; sourceTree = "<group>"; };
 		3DEFB078230DEA1600791960 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DEFB084230DEC5C00791960 /* AUDIO 29.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "AUDIO 29.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				3DEFB056230DEA1200791960 /* AppDelegate.swift */,
 				3DEFB058230DEA1200791960 /* ViewController.swift */,
 				3DEFB05A230DEA1200791960 /* Main.storyboard */,
+				3DEFB084230DEC5C00791960 /* AUDIO 29.wav */,
 				3DEFB05D230DEA1500791960 /* Assets.xcassets */,
 				3DEFB05F230DEA1500791960 /* LaunchScreen.storyboard */,
 				3DEFB062230DEA1500791960 /* Info.plist */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3DEFB061230DEA1500791960 /* LaunchScreen.storyboard in Resources */,
+				3DEFB085230DEC5C00791960 /* AUDIO 29.wav in Resources */,
 				3DEFB05E230DEA1500791960 /* Assets.xcassets in Resources */,
 				3DEFB05C230DEA1200791960 /* Main.storyboard in Resources */,
 			);
