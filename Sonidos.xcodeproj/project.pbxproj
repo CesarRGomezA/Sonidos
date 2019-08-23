@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3DBBC65023107F7E00E11534 /* Sonido 2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3DBBC64F23107F7E00E11534 /* Sonido 2.wav */; };
+		3DBBC6522310891A00E11534 /* PantallaRojaController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DBBC6512310891A00E11534 /* PantallaRojaController.swift */; };
 		3DEFB057230DEA1200791960 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEFB056230DEA1200791960 /* AppDelegate.swift */; };
 		3DEFB059230DEA1200791960 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEFB058230DEA1200791960 /* ViewController.swift */; };
 		3DEFB05C230DEA1200791960 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DEFB05A230DEA1200791960 /* Main.storyboard */; };
@@ -35,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3DBBC64F23107F7E00E11534 /* Sonido 2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Sonido 2.wav"; sourceTree = "<group>"; };
+		3DBBC6512310891A00E11534 /* PantallaRojaController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PantallaRojaController.swift; sourceTree = "<group>"; };
 		3DEFB053230DEA1200791960 /* Sonidos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sonidos.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DEFB056230DEA1200791960 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3DEFB058230DEA1200791960 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -102,10 +106,12 @@
 				3DEFB056230DEA1200791960 /* AppDelegate.swift */,
 				3DEFB058230DEA1200791960 /* ViewController.swift */,
 				3DEFB05A230DEA1200791960 /* Main.storyboard */,
+				3DBBC64F23107F7E00E11534 /* Sonido 2.wav */,
 				3DEFB084230DEC5C00791960 /* AUDIO 29.wav */,
 				3DEFB05D230DEA1500791960 /* Assets.xcassets */,
 				3DEFB05F230DEA1500791960 /* LaunchScreen.storyboard */,
 				3DEFB062230DEA1500791960 /* Info.plist */,
+				3DBBC6512310891A00E11534 /* PantallaRojaController.swift */,
 			);
 			path = Sonidos;
 			sourceTree = "<group>";
@@ -236,6 +242,7 @@
 				3DEFB085230DEC5C00791960 /* AUDIO 29.wav in Resources */,
 				3DEFB05E230DEA1500791960 /* Assets.xcassets in Resources */,
 				3DEFB05C230DEA1200791960 /* Main.storyboard in Resources */,
+				3DBBC65023107F7E00E11534 /* Sonido 2.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3DEFB059230DEA1200791960 /* ViewController.swift in Sources */,
+				3DBBC6522310891A00E11534 /* PantallaRojaController.swift in Sources */,
 				3DEFB057230DEA1200791960 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
